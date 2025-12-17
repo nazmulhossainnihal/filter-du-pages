@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "DU Facebook Page Filter",
+  "version": "1.0",
+  "description": "Filter out Facebook posts from all DU pages",
+
+  "permissions": [
+    "storage"
+  ],
+
+  "host_permissions": [
+    "*://*.facebook.com/*"
+  ],
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
