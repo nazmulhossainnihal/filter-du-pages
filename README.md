@@ -1,6 +1,7 @@
 # Facebook Page Filter Chrome Extension
 
 ![Facebook Page Filter Icon](icon500.png)
+
 This Chrome extension filters out Facebook posts from pages containing specific keywords related to Dhaka University.
 
 ## Filtered Keywords
