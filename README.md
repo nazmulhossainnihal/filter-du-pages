@@ -16,7 +16,7 @@ The extension will hide posts from pages with these keywords in their names:
 
 1. Go to the [Releases section](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) on GitHub
 
-2. Download the latest `facebook-page-filter.zip` file
+2. Download the latest `du-page-filter.zip` file
 
 3. Extract the ZIP file to a folder on your computer
 
