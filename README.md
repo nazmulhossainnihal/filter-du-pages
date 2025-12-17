@@ -16,7 +16,7 @@ The extension will hide posts from pages with these keywords in their names:
 
 ### Step 1: Download the Extension
 
-1. Go to the [Releases section](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) on GitHub
+1. Go to the [Releases section](https://github.com/nazmulhossainnihal/filter-du-pages/releases) on GitHub
 
 2. Download the latest `du-page-filter.zip` file
 
